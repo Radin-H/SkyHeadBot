@@ -1,0 +1,17 @@
+{
+  "name": "skyheadbot",
+  "version": "1.0.0",
+  "description": "Just a bot fam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yhl",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "npm": "^5.8.0",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.20.2"
+  }
+}
